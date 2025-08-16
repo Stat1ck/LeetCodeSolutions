@@ -17,6 +17,18 @@
 //
 //Input: nums = [3,3], target = 6
 //Output: [0,1]
+//
+// ************************************************************
+//
+// Accepted 63 / 63 testcases passed
+//
+// Runtime 0ms
+// Beats 100.00%
+//
+// Memory 14.92MB
+// Beats 20.33%
+//
+// ************************************************************
 
 #include <vector>
 #include <unordered_map>
@@ -41,7 +53,7 @@ public:
     }
 };
 
-int main() {
+int mainT() {
     Solution solution;
 
     std::vector<int> nums = {
