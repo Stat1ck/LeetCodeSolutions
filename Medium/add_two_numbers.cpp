@@ -34,6 +34,7 @@
 //
 // Memory 76.92MB
 // Beats 91.81%
+//
 // ************************************************************
 
 #include <iostream>
@@ -131,7 +132,7 @@ static void printTree(ListNode* res) {
     }
 }
 
-int mainT() {
+int main_add_two_nambers() {
     Solution solution;
     int l1[3] = { 2, 4, 3 };
     int l2[3] = { 5, 6, 4 };

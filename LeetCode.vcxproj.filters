@@ -3,5 +3,6 @@
   <ItemGroup>
     <ClCompile Include="Easy\two_sum.cpp" />
     <ClCompile Include="Medium\add_two_numbers.cpp" />
+    <ClCompile Include="Medium\longest_substring_without_repeating_characters.cpp" />
   </ItemGroup>
 </Project>

@@ -53,7 +53,7 @@ public:
     }
 };
 
-int mainT() {
+int main_two_sum() {
     Solution solution;
 
     std::vector<int> nums = {
